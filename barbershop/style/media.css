@@ -1,0 +1,29 @@
+@media(max-width: 1156px){
+    .container{
+        max-width: 700px;
+    }
+    .menu ul{
+        padding: 20px 0px;
+    }
+    .header{
+        height: 100px;
+    }
+    .border{
+        height: 100px;
+    }
+    .inf_button p{
+        margin-left: 220px;
+    }
+    .haircuts{
+        height: 1300px;
+    }
+    .beard{
+        gap: 30px;
+    }
+    .workers{
+        gap: 30px;
+    }
+    .hair{
+        gap: 30px;
+    }
+}
